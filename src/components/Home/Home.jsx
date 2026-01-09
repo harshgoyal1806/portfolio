@@ -9,9 +9,10 @@ const Home = () => {
       <div className="about-details">
         <img
           className="about-image"
-          src="/images/harshimg.jpeg"
+          src={`${import.meta.env.BASE_URL}images/harshimg.jpeg`}
           alt="Illustration of a boy"
         />
+
         <p>Hi, I’m Harsh.</p>
       </div>
 
@@ -24,7 +25,7 @@ const Home = () => {
       </div>
 
       <a
-        href="/harshResume.pdf"
+        href={`${import.meta.env.BASE_URL}harshResume.pdf`}
         target="_blank"
         rel="noopener noreferrer"
         className="about-resume"
