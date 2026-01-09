@@ -9,7 +9,7 @@ const Home = () => {
       <div className="about-details">
         <img
           className="about-image"
-          src="/images/harshImg.jpeg"
+          src="/images/harshimg.jpeg"
           alt="Illustration of a boy"
         />
         <p>Hi, I’m Harsh.</p>
