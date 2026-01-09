@@ -16,13 +16,10 @@ const Home = () => {
       </div>
 
       <div className="about-text">
-        <h1>
-          Building digital <br /> products, brands, and experiences.
-        </h1>
+        <h1>Crafting Modern Web Experiences.</h1>
         <p>
-          Experienced in full-stack development, I create performant web apps
-          by integrating modern frontend frameworks with scalable backend
-          architectures.
+          Passionate about building responsive, user-friendly web applications
+          while continuously learning and exploring modern technologies.
         </p>
       </div>
 
