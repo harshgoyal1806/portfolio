@@ -31,6 +31,14 @@ const projectData = [
     description:"A news web application that fetches and displays real-time headlines using the News API. Features category-based browsing and routing for a seamless user experience. ",
     githubLink:"https://github.com/harshgoyal1806/react-atlas"
   },
+  {
+    id: 5,
+    name: "mock-mart a shopping app",
+    img: `${import.meta.env.BASE_URL}images/mockMart.jpg`,
+    techStack:"React,Redux ,tailwind,React-router",
+    description:"A shopping website built using react and redux strengthing my skills in react and redux store how api works in redux and how we fetch and store data ",
+    githubLink:"https://github.com/harshgoyal1806/mock-mart"
+  },
 ];
 
 export default projectData;
