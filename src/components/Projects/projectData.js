@@ -37,7 +37,7 @@ const projectData = [
     img: `${import.meta.env.BASE_URL}images/mockMart.jpg`,
     techStack:"React,Redux ,tailwind,React-router",
     description:"A shopping website built using react and redux strengthing my skills in react and redux store how api works in redux and how we fetch and store data ",
-    githubLink:"https://github.com/harshgoyal1806/mock-mart"
+    githubLink:"https://github.com/harshgoyal1806/mockMart"
   },
 ];
 
